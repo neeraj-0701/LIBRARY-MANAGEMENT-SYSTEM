@@ -106,7 +106,7 @@ CREATE TABLE return_status
 
 ```
 
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](https://github.com/neeraj-0701/LIBRARY-MANAGEMENT-SYSTEM/blob/main/ER-DIAGRAM.png)
 
 
 ### 2. CRUD Operations
