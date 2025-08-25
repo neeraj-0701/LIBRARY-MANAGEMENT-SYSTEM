@@ -106,6 +106,9 @@ CREATE TABLE return_status
 
 ```
 
+![ER Diagram](images/er_diagram.png)
+
+
 ### 2. CRUD Operations
 
 - **Create**: Inserted sample records into the `books` table.
